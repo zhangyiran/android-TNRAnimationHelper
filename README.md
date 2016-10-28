@@ -1,10 +1,10 @@
-# android-animations
+# android-TNRAnimationHelper
 
 ![Platform](http://img.shields.io/badge/platform-android-blue.svg?style=flat)
 [![](https://jitpack.io/v/thunderrise/android-animations.svg)](https://jitpack.io/#thunderrise/android-animations)
 [![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/thunderrise/UIView-TNRAnimationHelper/blob/master/LICENSE)
 
-##Android animations
+##android-TNRAnimationHelper
 [![Thunderrise](images/Made-in.png)](http://thunderrise.com/)
 
 This is a library that contains practical animations: Rotation, Flip, Horizontal and Vertical Shake, Pulse.
@@ -27,7 +27,7 @@ allprojects {
 ####Step 2. Add the dependency
 
 	dependencies {
-	        compile 'com.github.thunderrise:android-animations:-SNAPSHOT'
+	        compile 'com.github.thunderrise:android-TNRAnimationHelper:-SNAPSHOT'
 	}
 
  
