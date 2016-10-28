@@ -20,7 +20,7 @@ public class ShakeAnimation {
     public void start(){
 
         if (view == null) throw new NullPointerException("View cant be null!");
-
+            //d
         final ObjectAnimator imageViewObjectAnimator = ObjectAnimator.ofFloat(view, "translationX", 0, 25, -25, 25, -25,15, -15, 6, -6, 0);
 
         imageViewObjectAnimator.setDuration(duration);
